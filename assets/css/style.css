@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    ;
+}
+
+.navbar-background {
+    background-color: #28A745 !important;
+}
+
+.logo-white-size {
+    width: 86pt;
+    height: 25pt;
+}
+
+.grey-light {
+    color: #707070;
+    font-size: 16px;
+}
+
+.price-color-text {
+    color: #28A745;
+    font-size: 20px;
+}
