@@ -22,3 +22,16 @@ body {
     color: #28A745;
     font-size: 20px;
 }
+
+.logo-black-footer {
+    width: 82px;
+    height: 24px;
+}
+
+.color-font-form {
+    color: #212529 !important;
+}
+
+.color-font-form-main {
+    color: #ffffff;
+}
